@@ -6,13 +6,13 @@ You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between c
 # GET ENTIRE DB
 http://my-json-server.typicode.com/majkl-zumberi/meme-list-api/db
 
-# GET SINGLE GAME (id)
+# GET SINGLE MEME (id)
 http://my-json-server.typicode.com/majkl-zumberi/meme-list-api/memes/1
 
-# GET ALL GAMES
+# GET ALL MEMES
 http://my-json-server.typicode.com/majkl-zumberi/meme-list-api/memes
 
-# FILTER GAMES BY GENRE
+# FILTER MEMES BY GENRE
 http://my-json-server.typicode.com/majkl-zumberi/meme-list-api/memes?subreddit=dankmemes
 
 # PAGINATION & LIMIT 
